@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvitica, san-serif;
+    background-image: url("Images/ice.jpeg");
+    background-size: cover;
+    background-repeat" no-repeat;
+    height: 100vh;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 300%:
+
+}
+
+p {
+    font-size: 110%;
+}
+
+a {
+    color: #99ccff;
+    text-decoration: none;
+}
+
+#container {
+
+
+}
+
+
+#top {
+    font-family: Monaco, Arial, Helvitica;
+    text-align: center;
+    /* background-color: #02030a; */
+    font-size: 150%;
+    width: 100%
+
+}
+
+#main {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+
+#footer {
+  font-size: 50%;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+#main img {
+  margin: 5px;
+
+}
